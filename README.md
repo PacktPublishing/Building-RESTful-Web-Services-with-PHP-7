@@ -33,6 +33,3 @@ Although i used Ubuntu, any operating system with PHP7 installed on it will work
 * [Building RESTful Python Web Services](https://www.packtpub.com/application-development/building-restful-python-web-services?utm_source=github&utm_medium=repository&utm_campaign=9781786462251)
 
 * [Building a RESTful Web Service with Spring](https://www.packtpub.com/web-development/building-restful-web-service-spring?utm_source=github&utm_medium=repository&utm_campaign=9781785285714)
-
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
