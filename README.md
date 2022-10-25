@@ -33,3 +33,7 @@ Although i used Ubuntu, any operating system with PHP7 installed on it will work
 * [Building RESTful Python Web Services](https://www.packtpub.com/application-development/building-restful-python-web-services?utm_source=github&utm_medium=repository&utm_campaign=9781786462251)
 
 * [Building a RESTful Web Service with Spring](https://www.packtpub.com/web-development/building-restful-web-service-spring?utm_source=github&utm_medium=repository&utm_campaign=9781785285714)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781787127746">https://packt.link/free-ebook/9781787127746 </a> </p>
